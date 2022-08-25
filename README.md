@@ -6,4 +6,4 @@ https://portswigger.net/web-security/sql-injection/blind/lab-conditional-respons
 
 # Usage
 
-**$ python passfinder.py** *url trackid_token passw_length*
+**$ python findpass.py** *url trackid_token passw_length*
